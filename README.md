@@ -1,2 +1,2 @@
 # trial-connect-pycharm
-connect github project using HTML and SSH link
+connect github project using HTTPS and SSH link
